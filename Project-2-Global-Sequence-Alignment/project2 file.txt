@@ -1,0 +1,30 @@
+1. Hours to complete the project: 22 hours
+
+
+2. Provide a short description of how you approached each problem, issues you 
+   
+encountered, and how you resolved those issues.
+
+   
+Problem 1 (Calculating Edit Distance Using Dynamic Programming):
+Opened the slides about input and used that information to make edits. 
+Ran through multiple errors and used research to fix them 
+Problem 2 (Recovering the Alignment): Got confused due to all the directions, researched how to compute
+to solve the problem and fix errors
+
+
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other),
+ and the nature of help received.
+
+   
+Name   TA            Status       Help Received yes
+  
+
+4. List any other comments here. Feel free to provide any feedback on how
+   
+much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

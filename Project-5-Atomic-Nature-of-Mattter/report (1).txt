@@ -1,0 +1,24 @@
+1. Hours to complete the project: 7 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Particle Identification): very difficult, needed some research.
+
+   Problem 2 (Particle Tracking):just followed the instruction.
+
+   Problem 3 (Data Analysis): instruction.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
